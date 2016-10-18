@@ -1,0 +1,2 @@
+# CameraPreviewMediaEncode
+Android通过MediaCodec进行硬编码加速，编码成h264格式视频
